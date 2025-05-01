@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/bc/24/b2/bc24b2dd54aeb8d2cb19593a6fef29f0.gif" alt="pixel header" style="height: 180px; width: 100%; object-fit: cover;" />
+<img src="https://i.pinimg.com/originals/bc/24/b2/bc24b2dd54aeb8d2cb19593a6fef29f0.gif" alt="pixel header" width="100%" style="max-height: 200px; object-fit: cover; display: block;" />
+
 
 
 <div align="center">
