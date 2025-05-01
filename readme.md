@@ -1,14 +1,4 @@
-Got it! You want **clean, modern, and slightly playful aesthetic** — *minimal silliness in tone*, but fun and creative in **visual style**.
 
-Here’s the updated version of your README:
-
-- Sleek and aesthetic visuals  
-- Slight touch of visual silliness (wavy lines, playful phrasing)
-- Professional tone with *subtle personality*
-
----
-
-```md
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+imoon;MERN+Stack+Developer;Exploring+Next.js+%26+React+Native;Building+polished+and+dynamic+UIs" alt="Typing SVG" />
 </div>
@@ -81,5 +71,5 @@ Currently diving deeper into mobile and server-side rendering with React Native 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
-```
+
 
