@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/cf/70/37/cf7037a49b72ee5e2990e99c6aac1482.gif" alt="pixel header" style="height: 200px; width: 100%; display: block; margin: 0 auto;" />
+<img src="https://i.pinimg.com/originals/cf/70/37/cf7037a49b72ee5e2990e99c6aac1482.gif" alt="pixel header" width="100%" />
 
 
 
