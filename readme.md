@@ -1,12 +1,8 @@
+
 <img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" alt="pixel header" width="100%" />
 
-
-
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+imoon;MERN+Stack+Developer;Exploring+Next.js+%26+React+Native;Crafting+Interactive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+imoon;MERN+Stack+Developer;Exploring+Next.js+%26+React+Native;Crafting+Interactive+Experiences" alt="Typing SVG" />
 </div>
 
 ---
