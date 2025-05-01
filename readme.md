@@ -41,7 +41,7 @@ I'm a MERN stack developer passionate about creating intuitive and dynamic web a
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yourusername&theme=summer">
     <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yourusername&screen_effect=true&theme=blue_chill">
-    <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=yourusername&theme=summer">
+    <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=iimoon&theme=summer">
   </picture>
 </div>
 
