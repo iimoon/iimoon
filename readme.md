@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/bc/24/b2/bc24b2dd54aeb8d2cb19593a6fef29f0.gif" alt="pixel header" width="100%" />
+<img src="https://i.pinimg.com/originals/bc/24/b2/bc24b2dd54aeb8d2cb19593a6fef29f0.gif" alt="pixel header" width="100%" height="40%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+imoon;MERN+Stack+Developer;Exploring+Next.js+%26+React+Native;Crafting+Interactive+Experiences" alt="Typing SVG" />
