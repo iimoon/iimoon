@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+imoon;MERN+Stack+Developer;Exploring+Next.js+%26+React+Native;Building+polished+and+dynamic+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+imoon;MERN+Stack+Developer;Exploring+Next.js+%26+React+Native;Crafting+Interactive+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,11 +13,11 @@
   <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.png" alt="divider" width="80%" />
 </p>
 
-## ⚙️ What I'm Up To
+## ⚙️ Currently Working On
 
-```js
+```
 const currentlyLearning = ["Next.js", "React Native"];
-const focus = "Creating smooth, interactive experiences.";
+const focus = "Building seamless and responsive user interfaces.";
 ```
 
 <div align="center">
@@ -29,15 +29,18 @@ const focus = "Creating smooth, interactive experiences.";
 
 ## 🧩 About Me
 
-I'm a MERN stack developer who enjoys working with polished components, intuitive UX, and responsive design.  
-Currently diving deeper into mobile and server-side rendering with React Native & Next.js.  
+I'm a MERN stack developer passionate about creating intuitive and dynamic web applications. Currently, I'm delving deeper into mobile development with React Native and enhancing server-side rendering capabilities using Next.js.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yourusername&theme=summer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yourusername&screen_effect=true&theme=blue_chill">
+    <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=yourusername&theme=summer">
+  </picture>
 </div>
 
 <br>
@@ -71,5 +74,3 @@ Currently diving deeper into mobile and server-side rendering with React Native 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
-
-
