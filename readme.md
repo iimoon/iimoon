@@ -34,8 +34,8 @@ I'm a MERN stack developer passionate about creating intuitive and dynamic web a
 ## 📊 GitHub Stats
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imoon&theme=summer">
-    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imoon&screen_effect=true&theme=blue_chill">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=iimoon&theme=summer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=iimoon&screen_effect=true&theme=blue_chill">
     <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=imoon&theme=summer">
   </picture>
 </div>
