@@ -48,14 +48,11 @@ I'm a MERN stack developer passionate about creating intuitive and dynamic web a
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://your-website.com">
+  <a href="https://imoon-next-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/imoon">
+  <a href="https://linkedin.com/in/ayman-ak">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
