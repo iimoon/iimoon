@@ -6,12 +6,10 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,mongodb,javascript,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,html,css,git" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.png" alt="divider" width="80%" />
-</p>
+---
 
 ## ⚙️ Currently Working On
 ```javascript
